@@ -10,6 +10,7 @@ const routes = {
   "k8s-gcr-proxy.quadimodo.space": "https://k8s.gcr.io",
   "k8s-proxy.quadimodo.space": "https://registry.k8s.io",
   "ghcr-proxy.quadimodo.space": "https://ghcr.io",
+  "gitlab-proxy.quadimodo.space": "https://registry.gitlab.com",
   "cloudsmith-proxy.quadimodo.space": "https://docker.cloudsmith.io",
 };
 
